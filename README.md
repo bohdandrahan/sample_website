@@ -1,4 +1,4 @@
-https://bohdandrahan.github.io/website/
+https://bohdandrahan.github.io/sample_website/
 
 # Sample Website
 
